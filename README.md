@@ -1,8 +1,5 @@
 <a href="https://www.python.org/">  ![python](https://user-images.githubusercontent.com/70289115/124835204-54a23f00-df57-11eb-9c5e-97710dd11784.jpg) </a>
 
-<br>
-
-
 ## 📖 Sobre
 
 Esse repositório é dedicado para a resolução de todos os desafios que foram propostos no Curso de Python 3, ministrado pelo professor Gustavo Guanabara.
@@ -19,7 +16,6 @@ As tecnologias/ferramentas utilizadas foram:
 
 <p> <b>OBS: </b>O período de estudo foi de Abril à Julho de 2021</p>
 
-<br>
 
 ## 🌎 Mundos
 
@@ -31,11 +27,8 @@ O curso é dividido em 3 mundos (até dado momento), e em cada mundo é abordado
 
 - <b><a href ="https://github.com/Mich4el-Ross/Python3_Curso/tree/master/Mundo_3%20-%20Estrutras_Compostas"> Mundo 3: Estruturas Compostas - </a> </b>Exercícios com as estruturas de dados do python (Tuplas, Listas e Dicionarios).
 
-<br> 
-
 
 ## 📫 Encontre Curso em Vídeo em:
-
 
 <a href="https://www.instagram.com/cursoemvideo/" target="_blank"> <img width="50" src="https://user-images.githubusercontent.com/70289115/124838146-a13c4900-df5c-11eb-8b0d-53fc2509b498.png">
 <a href="https://www.youtube.com/user/cursosemvideo" target="_blank"> <img width="75" src="https://user-images.githubusercontent.com/70289115/124840133-ab604680-df60-11eb-8bbd-3595975bdf6c.png">
